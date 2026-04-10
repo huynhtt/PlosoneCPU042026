@@ -18,3 +18,5 @@ Open R and run:
 
 ```r
 source("CPU_ASEAN.R")
+
+DOI: https://doi.org/10.5281/zenodo.19493691
